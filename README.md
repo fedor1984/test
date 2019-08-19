@@ -1,2 +1,2 @@
 # Test message
-Please commit
+Please commit and then pull
