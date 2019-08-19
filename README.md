@@ -1,2 +1,2 @@
-# test
-Test repo
+# Test message
+Please commit and then pull
