@@ -19,4 +19,4 @@ Please commit and then pull
 
 # This is link #
 
-Please see this .[good link].(http://ya.ru I am link to Yandex)
+Please see this [link](/http://ya.ru "Link to Yandex")
